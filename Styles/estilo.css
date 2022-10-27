@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("/imagenes/escudobocaazul.jpg");
+    background-image: url(/imagenes/escudobocaazul.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
