@@ -1,0 +1,72 @@
+
+header {
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+body {
+    background-image: url("imagenes/escudobocaazul.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+section article h1 {
+    color:  rgb(243, 243, 53);
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+.descripcion h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    text-decoration-line: underline;
+    margin-left: 140px;
+}
+
+.datos {
+    line-height: 1.8;
+    margin-left: 100px;
+    background-color: yellow;
+    opacity: 40%;
+    border-style: solid;
+    padding: 40px;
+    width: 400px;
+}
+
+li {
+    color: rgb(250, 249, 247);
+}
+
+ol {
+    color: rgb(243, 243, 53);
+}
+
+#accesos {
+    background-color: rgb(14, 12, 134);
+    opacity: 70%;
+    border-radius: 8%;
+    border-style: groove;
+    width: 400px;
+    height: 300px;
+    line-height: 1.8;
+    padding: 40px;
+    margin-left: 100px;
+}
+
+#accesos ul {
+    color: white;
+}
+
+#accesos h2{
+    color: rgb(243, 243, 53);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+}
+
+
